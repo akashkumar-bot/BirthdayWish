@@ -1,0 +1,7 @@
+node_modules/
+build/
+.tools/
+tmp-audio/
+tmp-imagegen/
+.DS_Store
+npm-debug.log*
