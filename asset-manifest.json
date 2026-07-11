@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BirthdayWish/static/css/main.9f7f47e2.css",
+    "main.js": "/BirthdayWish/static/js/main.2ee9b54d.js",
+    "static/media/birthday-hero.png": "/BirthdayWish/static/media/birthday-hero.f87bba9cee91ba48dcc8.png",
+    "static/media/floral-cluster.png": "/BirthdayWish/static/media/floral-cluster.68da2f9198c3222c18db.png",
+    "index.html": "/BirthdayWish/index.html",
+    "main.9f7f47e2.css.map": "/BirthdayWish/static/css/main.9f7f47e2.css.map",
+    "main.2ee9b54d.js.map": "/BirthdayWish/static/js/main.2ee9b54d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f7f47e2.css",
+    "static/js/main.2ee9b54d.js"
+  ]
+}
