@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/BirthdayWish/static/css/main.9f7f47e2.css",
-    "main.js": "/BirthdayWish/static/js/main.2ee9b54d.js",
-    "static/media/birthday-hero.png": "/BirthdayWish/static/media/birthday-hero.f87bba9cee91ba48dcc8.png",
+    "main.css": "/BirthdayWish/static/css/main.a2cb2bf7.css",
+    "main.js": "/BirthdayWish/static/js/main.ecf7ae02.js",
+    "static/media/birthday-hero.png": "/BirthdayWish/static/media/birthday-hero.86a04d0a9f1e4bc274c5.png",
     "static/media/floral-cluster.png": "/BirthdayWish/static/media/floral-cluster.68da2f9198c3222c18db.png",
+    "static/media/birthday-surprise.mp4": "/BirthdayWish/static/media/birthday-surprise.4358809678668f216755.mp4",
     "index.html": "/BirthdayWish/index.html",
-    "main.9f7f47e2.css.map": "/BirthdayWish/static/css/main.9f7f47e2.css.map",
-    "main.2ee9b54d.js.map": "/BirthdayWish/static/js/main.2ee9b54d.js.map"
+    "main.a2cb2bf7.css.map": "/BirthdayWish/static/css/main.a2cb2bf7.css.map",
+    "main.ecf7ae02.js.map": "/BirthdayWish/static/js/main.ecf7ae02.js.map"
   },
   "entrypoints": [
-    "static/css/main.9f7f47e2.css",
-    "static/js/main.2ee9b54d.js"
+    "static/css/main.a2cb2bf7.css",
+    "static/js/main.ecf7ae02.js"
   ]
 }
