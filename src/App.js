@@ -448,7 +448,7 @@ function SurprisePage({ opened, onOpen }) {
       {opened && (
         <div className="final-reveal">
           <header className="reveal-heading">
-            <span className="reveal-badge">A special moment for you</span>
+            <span className="reveal-badge">Happy Birthday</span>
             <h2>Happy Birthday, Shanu! 🎂</h2>
           </header>
           <div className={`avatar-video-wrap${showVideoCover ? " cover-visible" : ""}`}>
@@ -462,8 +462,8 @@ function SurprisePage({ opened, onOpen }) {
               loop
               onTimeUpdate={(event) => {
                 const video = event.currentTarget;
-                const shouldShow = video.currentTime >= 0.5
-                  && (!video.duration || video.currentTime < video.duration - 0.45);
+                const shouldShow = video.currentTime >= 2.1
+                  && (!video.duration || video.currentTime < video.duration - 0);
                 setShowVideoCover(shouldShow);
               }}
               playsInline

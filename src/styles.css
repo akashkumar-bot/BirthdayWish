@@ -1556,16 +1556,16 @@ h2::after {
     font-weight: 900; letter-spacing: 0.04em;
   }
   .page-surprise .avatar-video-wrap::before {
-    content: "✦  Special moment  ✦"; position: absolute;
+    content: "✦  Happy Birthday  ✦"; position: absolute;
     left: 50%; bottom: 70px;
     z-index: 4; display: grid;
     width: min(430px, 72%); min-height: 50px;
     place-items: center; padding: 8px 26px;
-    border: 3px solid white; border-radius: 999px;
-    color: #8f3850; background: linear-gradient(135deg, #fff8df 0%, #ffe8ef 48%, #fff3e7 100%);
-    box-shadow: 0 10px 24px rgba(71, 29, 43, 0.2); font-family: var(--font-display);
-    font-size: 0.9rem; font-weight: 900;
-    letter-spacing: 0.08em; white-space: nowrap;
+    border: 3px solid #ffe1a0; border-radius: 999px;
+    color: #fff; background: radial-gradient(circle at 20% 20%, rgba(255, 255, 255, 0.25), transparent 28%), linear-gradient(135deg, #9b3456 0%, #d95473 48%, #f29468 100%);
+    box-shadow: 0 0 0 5px rgba(255, 255, 255, 0.78), 0 14px 32px rgba(113, 38, 64, 0.34); font-family: var(--font-display);
+    font-size: 1rem; font-weight: 900;
+    letter-spacing: 0.1em; text-shadow: 0 2px 5px rgba(76, 23, 42, 0.28); white-space: nowrap;
     opacity: 0; transform: translate(-50%, 18px) scale(0.88);
     transition: opacity 360ms ease 120ms, transform 420ms ease 120ms;
   }
