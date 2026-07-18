@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/BirthdayWish/static/css/main.134be8e9.css",
-    "main.js": "/BirthdayWish/static/js/main.651c2d57.js",
+    "main.js": "/BirthdayWish/static/js/main.e606400c.js",
     "static/media/birthday-hero.png": "/BirthdayWish/static/media/birthday-hero.86a04d0a9f1e4bc274c5.png",
     "static/media/floral-cluster.png": "/BirthdayWish/static/media/floral-cluster.68da2f9198c3222c18db.png",
     "static/media/birthday-surprise.mp4": "/BirthdayWish/static/media/birthday-surprise.4358809678668f216755.mp4",
     "index.html": "/BirthdayWish/index.html",
     "main.134be8e9.css.map": "/BirthdayWish/static/css/main.134be8e9.css.map",
-    "main.651c2d57.js.map": "/BirthdayWish/static/js/main.651c2d57.js.map"
+    "main.e606400c.js.map": "/BirthdayWish/static/js/main.e606400c.js.map"
   },
   "entrypoints": [
     "static/css/main.134be8e9.css",
-    "static/js/main.651c2d57.js"
+    "static/js/main.e606400c.js"
   ]
 }
